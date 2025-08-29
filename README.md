@@ -46,10 +46,10 @@ It demonstrates **database design, queries, views, and reports** for managing pa
 ⭐ If you like this project, consider giving it a star!
 
 ## 📂 Project Structure
-Hospital-DBMS-Project/
+```Hospital-DBMS-Project/
 │── Create_DB_and_Tables.sql
 │── Basic_Queries.sql
 │── Joins_Grouping_and_Subqueries.sql
 │── Views.sql 
 │── hdbk.mwb
-│── README.md 
+│── README.md ```
