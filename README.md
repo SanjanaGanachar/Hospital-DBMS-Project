@@ -45,10 +45,11 @@ It demonstrates **database design, queries, views, and reports** for managing pa
 ---
 ⭐ If you like this project, consider giving it a star!
 
+## 📂 Project Structure
 Hospital-DBMS-Project/
-│── Create_DB_and_Tables.sql      # Database schema + sample data
-│── Basic_Queries.sql             # Day 1 queries
+│── Create_DB_and_Tables.sql # Database schema + sample data
+│── Basic_Queries.sql # Day 1 queries
 │── Joins_Grouping_and_Subqueries.sql # Day 2 queries
-│── Views.sql                     # Day 3 advanced queries (views)
-│── hdbk.mwb                      # MySQL Workbench ER model
-│── README.md                     # Project documentation
+│── Views.sql # Day 3 advanced queries (views)
+│── hdbk.mwb # MySQL Workbench ER model
+│── README.md # Project documentation
