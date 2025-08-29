@@ -39,9 +39,8 @@ It demonstrates **database design, queries, views, and reports** for managing pa
 ---
 
 ## 👩‍💻 Author
-- **Your Name**  
-- 📧 Email: your.email@example.com  
-- 🌐 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+- **Sanjana R Ganachar**  
+- 🌐 LinkedIn: https://www.linkedin.com/in/sanjana-r-ganachar-2a9a51276  
 
 ---
 ⭐ If you like this project, consider giving it a star!
