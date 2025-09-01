@@ -52,4 +52,4 @@ It demonstrates **database design, queries, views, and reports** for managing pa
 │── Joins_Grouping_and_Subqueries.sql
 │── Views.sql 
 │── hdbk.mwb
-│── README.md ```
+│── README.md 
